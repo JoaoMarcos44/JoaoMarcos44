@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <sub>MINAZUKI</sub>
 </p>
 
 <p align="center">
